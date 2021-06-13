@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/vtuber/static/css/main.1354602a.chunk.css",
-    "main.js": "/vtuber/static/js/main.ffa1e10c.chunk.js",
-    "main.js.map": "/vtuber/static/js/main.ffa1e10c.chunk.js.map",
+    "main.css": "/vtuber/static/css/main.424ad5e4.chunk.css",
+    "main.js": "/vtuber/static/js/main.5529c3d1.chunk.js",
+    "main.js.map": "/vtuber/static/js/main.5529c3d1.chunk.js.map",
     "runtime-main.js": "/vtuber/static/js/runtime-main.6980a559.js",
     "runtime-main.js.map": "/vtuber/static/js/runtime-main.6980a559.js.map",
-    "static/css/2.150d169a.chunk.css": "/vtuber/static/css/2.150d169a.chunk.css",
-    "static/js/2.f9485217.chunk.js": "/vtuber/static/js/2.f9485217.chunk.js",
-    "static/js/2.f9485217.chunk.js.map": "/vtuber/static/js/2.f9485217.chunk.js.map",
+    "static/css/2.16735bef.chunk.css": "/vtuber/static/css/2.16735bef.chunk.css",
+    "static/js/2.382edd2a.chunk.js": "/vtuber/static/js/2.382edd2a.chunk.js",
+    "static/js/2.382edd2a.chunk.js.map": "/vtuber/static/js/2.382edd2a.chunk.js.map",
     "index.html": "/vtuber/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/vtuber/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.1354602a.chunk.css.map": "/vtuber/static/css/main.1354602a.chunk.css.map",
-    "static/js/2.f9485217.chunk.js.LICENSE.txt": "/vtuber/static/js/2.f9485217.chunk.js.LICENSE.txt"
+    "static/css/2.16735bef.chunk.css.map": "/vtuber/static/css/2.16735bef.chunk.css.map",
+    "static/css/main.424ad5e4.chunk.css.map": "/vtuber/static/css/main.424ad5e4.chunk.css.map",
+    "static/js/2.382edd2a.chunk.js.LICENSE.txt": "/vtuber/static/js/2.382edd2a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6980a559.js",
-    "static/css/2.150d169a.chunk.css",
-    "static/js/2.f9485217.chunk.js",
-    "static/css/main.1354602a.chunk.css",
-    "static/js/main.ffa1e10c.chunk.js"
+    "static/css/2.16735bef.chunk.css",
+    "static/js/2.382edd2a.chunk.js",
+    "static/css/main.424ad5e4.chunk.css",
+    "static/js/main.5529c3d1.chunk.js"
   ]
 }
