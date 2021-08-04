@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/vtuber/static/css/main.425f57f1.chunk.css",
-    "main.js": "/vtuber/static/js/main.78fb674b.chunk.js",
-    "main.js.map": "/vtuber/static/js/main.78fb674b.chunk.js.map",
+    "main.css": "/vtuber/static/css/main.1bdb6877.chunk.css",
+    "main.js": "/vtuber/static/js/main.5eeed1ad.chunk.js",
+    "main.js.map": "/vtuber/static/js/main.5eeed1ad.chunk.js.map",
     "runtime-main.js": "/vtuber/static/js/runtime-main.6980a559.js",
     "runtime-main.js.map": "/vtuber/static/js/runtime-main.6980a559.js.map",
     "static/css/2.16735bef.chunk.css": "/vtuber/static/css/2.16735bef.chunk.css",
-    "static/js/2.fc085175.chunk.js": "/vtuber/static/js/2.fc085175.chunk.js",
-    "static/js/2.fc085175.chunk.js.map": "/vtuber/static/js/2.fc085175.chunk.js.map",
+    "static/js/2.22186e19.chunk.js": "/vtuber/static/js/2.22186e19.chunk.js",
+    "static/js/2.22186e19.chunk.js.map": "/vtuber/static/js/2.22186e19.chunk.js.map",
     "index.html": "/vtuber/index.html",
     "static/css/2.16735bef.chunk.css.map": "/vtuber/static/css/2.16735bef.chunk.css.map",
-    "static/css/main.425f57f1.chunk.css.map": "/vtuber/static/css/main.425f57f1.chunk.css.map",
-    "static/js/2.fc085175.chunk.js.LICENSE.txt": "/vtuber/static/js/2.fc085175.chunk.js.LICENSE.txt"
+    "static/css/main.1bdb6877.chunk.css.map": "/vtuber/static/css/main.1bdb6877.chunk.css.map",
+    "static/js/2.22186e19.chunk.js.LICENSE.txt": "/vtuber/static/js/2.22186e19.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6980a559.js",
     "static/css/2.16735bef.chunk.css",
-    "static/js/2.fc085175.chunk.js",
-    "static/css/main.425f57f1.chunk.css",
-    "static/js/main.78fb674b.chunk.js"
+    "static/js/2.22186e19.chunk.js",
+    "static/css/main.1bdb6877.chunk.css",
+    "static/js/main.5eeed1ad.chunk.js"
   ]
 }

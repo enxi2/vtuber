@@ -1,0 +1,2 @@
+# Ignore sourcemaps in the build
+*.map
